@@ -1,3 +1,30 @@
 {
-  "message" : "WELL DONE"
+  "redirectUrl" :"test",
+  "webSocketEndpoint" :"test",
+  "steps" : [
+    {
+      "stepOrder": 1,
+      "status": "IN_PROGRESS",
+      "stepName": "eerste test stap",
+      "message": null,
+      "detailedMessage": null,
+      "messageType": null
+    },
+    {
+      "stepOrder": 2,
+      "status": "IN_PROGRESS",
+      "stepName": "tweede test stap",
+      "message": null,
+      "detailedMessage": null,
+      "messageType": null
+    },
+    {
+      "stepOrder": 3,
+      "status": "IN_PROGRESS",
+      "stepName": "derde test stap",
+      "message": null,
+      "detailedMessage": null,
+      "messageType": null
+    }
+  ]
 }
